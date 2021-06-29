@@ -1,3 +1,4 @@
+![TechBlog](https://user-images.githubusercontent.com/77419537/123810580-86186c00-d8c0-11eb-9bc2-b97fa9dfe4e9.gif)
 # 14-MVC-Tech-Blog
 
 ## Description 
@@ -30,7 +31,7 @@ Installation is a process of installing the dependencies required ;
 `npm install dotenv`  
 `npm install express-handlebars`   
 `npm install bcrypt package`   
-`npm install express-session` 
+`npm install express-session` <br>
 `npm install connect-session-sequelize`
 
 
@@ -46,7 +47,8 @@ Run the following commands;
 
 
 ### Demo     
-![Demo GIF of the Application](./assets/TechBlog.gif) 
+![TechBlog Demo](https://user-images.githubusercontent.com/77419537/123810619-8ca6e380-d8c0-11eb-98ce-babb25cacefa.gif)
+
 
 ## Links
 [Repository](https://github.com/princessmoss/14-MVC-Tech-Blog) <br>
