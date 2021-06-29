@@ -1,4 +1,3 @@
-![TechBlog](https://user-images.githubusercontent.com/77419537/123810580-86186c00-d8c0-11eb-9bc2-b97fa9dfe4e9.gif)
 # 14-MVC-Tech-Blog
 
 ## Description 
