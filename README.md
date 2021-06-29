@@ -49,7 +49,7 @@ Run the following commands;
 ![Demo GIF of the Application](./assets/TechBlog.gif) 
 
 ## Links
-[Repository](https://github.com/princessmoss/14-MVC-Tech-Blog). 
+[Repository](https://github.com/princessmoss/14-MVC-Tech-Blog) <br>
 [Heroku Deployment: https://immense-retreat-29555.herokuapp.com/](https://immense-retreat-29555.herokuapp.com/)
 
 
