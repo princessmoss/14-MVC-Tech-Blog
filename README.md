@@ -50,7 +50,7 @@ Run the following commands;
 
 ## Links
 [Repository](https://github.com/princessmoss/14-MVC-Tech-Blog)
-[Heroku Deployment](https://immense-retreat-29555.herokuapp.com/)
+[Heroku Deployment: https://immense-retreat-29555.herokuapp.com/](https://immense-retreat-29555.herokuapp.com/)
 
 <!-- [Deployed Site: https://frozen-sierra-64365.herokuapp.com/](https://frozen-sierra-64365.herokuapp.com/) -->
 
